@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611485522170",
+    "firebase_url": "https://flash-chat-80778-default-rtdb.firebaseio.com",
+    "project_id": "flash-chat-80778",
+    "storage_bucket": "flash-chat-80778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611485522170:android:3e16042c532c61e5769143",
+        "android_client_info": {
+          "package_name": "co.VagapAA.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611485522170-7f5eq7j8svhjn27re7lo2f1olooegadg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-SulN-eBkcmjoqgF27d_4avnoQuyivvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611485522170-7f5eq7j8svhjn27re7lo2f1olooegadg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
